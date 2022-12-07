@@ -1,0 +1,29 @@
+{
+  "name": "rmsgen",
+  "version": "1.0.0",
+  "description": "Module to generate random messages from CLI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vegadelalyra/rmsg.git"
+  },
+  "keywords": [
+    "random",
+    "messages",
+    "CLI",
+    "module"
+  ],
+  "author": "Vega de la Lyra <lyradeperseo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vegadelalyra/rmsg/issues"
+  },
+  "homepage": "https://github.com/vegadelalyra/rmsg#readme",
+  "bin": {
+    "rmsg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
