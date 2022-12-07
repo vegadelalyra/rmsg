@@ -4,7 +4,7 @@ The module is called rmsgen to avoid publication issues, however, the command to
 
 Whenever I start a new project, I don't know what to write for the first commit. After doing an initial commit  there is technically nothing there...
 
-REMEMBER: THE COMMAND IS <rmsg>
+REMEMBER: THE COMMAND IS "rmsg".
 
 ## Install
 
