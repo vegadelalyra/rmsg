@@ -9,7 +9,7 @@ REMEMBER: THE COMMAND IS "rmsg".
 ## Install
 
 ```npm
-npm install -g rmsg
+npm install -g rmsgen
 ```
 
 # Usage

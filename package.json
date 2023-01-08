@@ -25,5 +25,8 @@
   "bin": {
     "rmsg": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "rmsgen": "^1.1.1"
+  }
 }
