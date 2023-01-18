@@ -15,7 +15,7 @@ const messages = [
   
   const funnyCommit = () => {
     const message = messages[Math.floor(Math.random() * messages.length)]
-    console.log(`\x1b[34m${message}`) // \x1[xxm gives color to text
+    console.log(`\x1b[35m${message}\x1b[37m`) // \x1[xxm gives color to text
   }
   
   module.exports = {
